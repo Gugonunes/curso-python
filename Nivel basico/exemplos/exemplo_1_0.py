@@ -1,10 +1,14 @@
 """
 Condições IF, ELIF e ELSE
 """
-if True:
-    print("Verdadeiro.")
-    
-    num_1 = 2
-    num_2 = 4
+teste = 18
 
-    print(num_1 + num_2)
+if teste == 1:
+    print("É UM")
+    print(teste,'teste * 2:',teste*2)
+elif teste == 2:
+    print("É DOIS")
+    print(teste, teste*2)
+    print(teste,'teste * 2:',teste*2)
+else:
+    print('Ultima opção')
