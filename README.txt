@@ -1,7 +1,7 @@
 # Python
-Python do iniciante ao avançado.
-Aqui estarei atualizando o conteúdo conforme eu for realizando as aulas, 
-os códigos em questão foram realizados por mim (Gustavo Alexandre) e são baseados no curso 
-"Curso de Python 3 do Básico Ao Avançado (com projetos reais)", na Udemy, 
-do professor Luiz Otávio Miranda.
+Python from Beginner to Advanced.
+I will be updating the content as I conduct the lessons.
+The codes in question were created by me (Gustavo Alexandre) and are based on the course
+'Python 3 Course from Basic to Advanced (with real projects)' on Udemy,
+by Professor Luiz Otávio Miranda.
 
